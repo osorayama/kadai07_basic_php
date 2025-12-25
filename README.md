@@ -5,7 +5,7 @@
 - 登った山の名前、日付、天気、感想を登録し一覧表示する
 
 ## ③アプリのデプロイURL
-
+https://sottra.sakura.ne.jp/kadai07_basic_php/
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
 - ID: なし
